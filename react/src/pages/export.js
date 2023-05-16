@@ -1,0 +1,8 @@
+export { default as Home } from './home'
+export { default as Login } from './login'
+export { default as Register } from './register'
+export { default as Dashboard } from './dashboard'
+export { default as ProductAdd } from './ProductAdd'
+export { default as ProductEdit } from './ProductEdit'
+export { default as Edit } from './edit'
+export { default as NotFoundPage } from './404'
